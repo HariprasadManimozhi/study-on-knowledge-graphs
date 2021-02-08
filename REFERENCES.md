@@ -26,7 +26,8 @@
 ### Packages
 1. [kglab Graph-Based Data Science](https://derwen.ai/docs/kgl/)
 1. [Opensource Graph Cayley](https://cayley.io/)
-1. Open-source knowledge graph Nexus - [Link1](https://bluebrainnexus.io/)[| Link](https://nexus-forge.readthedocs.io/en/latest/index.html)
+1. Open-source knowledge graph Nexus - [Link1](https://bluebrainnexus.io/) | [Link2](https://nexus-forge.readthedocs.io/en/latest/index.html)
+1. Janus graph - Distributed, open source, massively scalable graph database(Used by Flipkart's Commerce Graph) [Link](https://janusgraph.org/) | [Docs](https://docs.janusgraph.org/) 
 
 
 ### Use cases

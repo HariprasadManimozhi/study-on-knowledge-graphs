@@ -12,13 +12,10 @@
 
 
 ### Useful References
-1. [Pykg2vec: Python Library for KGE Methods](https://pypi.org/project/pykg2vec/) 
-1. Python library for Representation Learning on Knowledge Graphs -  https://github.com/Accenture/AmpliGraph | https://docs.ampligraph.org/en/1.3.1/ 
 1. [Graph database, with native graph storage and processing](https://neo4j.com/developer/)
 1. [A curated collection of research on knowledge graphs](http://shaoxiong.rocks/awesome-knowledge-graph/)
 1. [Constructing knowledge graph from unstructured text](https://www.cse.iitk.ac.in/users/cs365/2015/projects.html)
 1. [CK Evolve Pathway on Knowledge graphs(with all articles)](https://degreed.com/paths?path=knowledge-graph&id=1329856&orgsso=cavinkare)
-1. Distributed, open source, massively scalable graph database - https://janusgraph.org/ | https://docs.janusgraph.org/ (Used by Flipkart's Commerce Graph)
 1. Modelling tabular data as graph - https://medium.com/@nikkisharma536/knowledge-graph-part-2-modelling-tabular-data-as-graph-cfe1e0ee18fe | https://confusedcoders.com/random/how-to-build-a-knowledge-graph-part-1 | https://confusedcoders.com/wp-content/uploads/2019/11/GDG-Devfest-Knowledge-Graph.pdf
 1. [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna)
 1. [Document Clustering with Python](http://brandonrose.org/clustering)
@@ -28,6 +25,8 @@
 1. [Opensource Graph Cayley](https://cayley.io/)
 1. Open-source knowledge graph Nexus - [Link1](https://bluebrainnexus.io/) | [Link2](https://nexus-forge.readthedocs.io/en/latest/index.html)
 1. Janus graph - Distributed, open source, massively scalable graph database(Used by Flipkart's Commerce Graph) [Link](https://janusgraph.org/) | [Docs](https://docs.janusgraph.org/) 
+1. [Pykg2vec: Python Library for KGE Methods](https://pypi.org/project/pykg2vec/) 
+1. Python library for Representation Learning on Knowledge Graphs -  [Link](https://github.com/Accenture/AmpliGraph) | [Docs](https://docs.ampligraph.org/en/1.3.1/) 
 
 
 ### Use cases
